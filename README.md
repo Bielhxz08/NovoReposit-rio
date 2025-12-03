@@ -10,6 +10,7 @@ O dashboard foi construído com foco em inteligência operacional, trazendo indi
 O painel utiliza visualizações claras, filtros dinâmicos e métricas de risco que tornam a análise mais eficiente e acessível.
 
 🧠Principais Funcionalidades
+
 ✔️ 1. Monitoramento de Anomalias
 
 Exibição de eventos suspeitos em tempo real.
